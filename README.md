@@ -1,7 +1,7 @@
 # Mctsboardgame
 ## Introduction
 
-This a unity implementation of a board game with some kinds of automatic players based on Monte Carlo Tree Search. 
+This is a unity implementation of a board game with some kinds of automatic players based on Monte Carlo Tree Search. 
 
 
 ## Attention
